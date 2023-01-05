@@ -1,0 +1,40 @@
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+[[ -n $RESPONSES ]]
+echo
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+[[ -n $RESPONSES ]]
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo ANJIR PUSING COOOKKKKK ASUW
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help -e
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
